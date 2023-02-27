@@ -1,2 +1,2 @@
 # javascript-pass
-This is an application that an employee can use to generate a random password based on criteria they've selected. This app will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
+A game of rock, paper, scissors against an automated opponent.
